@@ -2,8 +2,8 @@
 
 
 
-<img src="./Assents/finalized.png"  widht="250px" alt="Contact-Form ">
-<img src="./Assents/finalized-responsive.png"  widht="250px" alt="Contact-Form ">
+<img src="./assents/finalized.png"  widht="250px" alt="Contact-Form ">
+<img src="./assents/finalized-responsive.png"  widht="250px" alt="Contact-Form ">
 
 >  Contact-Form finalized
 
